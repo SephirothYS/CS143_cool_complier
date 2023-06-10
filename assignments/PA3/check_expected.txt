@@ -1,0 +1,4 @@
+"Test.cl", line 6: syntax error at or near ';'
+"Test.cl", line 7: syntax error at or near DARROW
+"Test.cl", line 8: syntax error at or near DARROW
+Compilation halted due to lex and parse errors

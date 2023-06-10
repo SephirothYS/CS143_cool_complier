@@ -1,0 +1,1 @@
+STR_CONST 'zxckjasqwrblasd\nzxncm,kweqlpdasu' 

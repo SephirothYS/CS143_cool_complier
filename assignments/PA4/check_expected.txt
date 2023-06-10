@@ -1,0 +1,2 @@
+./Test/inheritscycle.cl:6: Class D inherits from an undefined class Notexist.
+Compilation halted due to static semantic errors.

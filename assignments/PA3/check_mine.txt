@@ -1,0 +1,4 @@
+"Test.cl", line 6: syntax error at or near ';'
+"Test.cl", line 21: syntax error at or near LOOP
+"Test.cl", line 22: syntax error at or near POOL
+Compilation halted due to lex and parse errors

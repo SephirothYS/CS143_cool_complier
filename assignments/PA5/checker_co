@@ -1,0 +1,9 @@
+#!/bin/bash
+
+result=$(diff check_mine.s check_expect.s)
+
+if [ -z "$result" ]; then
+	echo "passed"
+else
+	echo "$result"
+fi
